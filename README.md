@@ -1,6 +1,6 @@
 # shop
 this project has been made with Laravel 6
-
+and is in master branch
 you need to make a database call [shop]
 or modify the file .env
 DB_CONNECTION=mysql
